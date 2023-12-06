@@ -6,6 +6,7 @@ using Entities;
 using ViewModel.UserViewModels;
 using Microsoft.EntityFrameworkCore;
 using RacoonProvider;
+using ViewModel.AdminViewModels;
 
 namespace RacoonCore.Controllers
 {
@@ -52,7 +53,15 @@ namespace RacoonCore.Controllers
             }
             else
                 return View("login", acc);
-            return RedirectToAction("dashboard", "Admin");
+
+
+            var v = new ViewMoreViewModel() { };
+            v.Contacts = new RacoonProvider.Contact().spNewSearchIntblContact("", "%%", 0, 10);
+            v.NumberOfItemsSearchedFor = new RacoonProvider.Contact().spNewCountSearchByName("", "%%");
+            v.Services = new RacoonProvider.Services().getAllServices();
+           
+
+            return RedirectToAction("dashboard", "Admin", v);
         }
         // loginValidation >>>
         // <<< login View 

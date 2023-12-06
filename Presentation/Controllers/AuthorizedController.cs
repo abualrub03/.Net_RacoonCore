@@ -10,19 +10,22 @@ namespace RacoonCore.Controllers
         {
             get
             {
-                var userIdClaim = User.FindFirst("CustomerID");
-                var userEncryptedIdClaim = User.FindFirst("CustomerEncryptedId");
-                var userEmailClaim = User.FindFirst("CustomerEmail");
-                var userRoleClaim = User.FindFirst(ClaimTypes.Role);
-                var account = new Entities.Team
-                {
-                    Id = Int32.Parse(userIdClaim.Value),
-                    EncryptedId = userEncryptedIdClaim.ToString(),
-                    Email = userEmailClaim.ToString(),
-                    Role = userRoleClaim.ToString(),
-                };
-                return account;
+                return GetCurrentUser();
             }
-        } 
+        }
+        public Entities.Team GetCurrentUser()
+        {
+            Entities.Team team = new Team();
+            var props =  typeof(Entities.Team).GetProperties();
+            foreach (var item in props)
+            {
+                var value = User.FindFirstValue(item.Name);
+                if (value != null)
+                {
+                    item.SetValue(team, value);
+                }
+            }
+            return team;
+        }
     }
 }

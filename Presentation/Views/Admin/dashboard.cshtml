@@ -1,5 +1,13 @@
 ﻿@model ViewModel.AdminViewModels.ViewMoreViewModel
 @{
+    if ( Model.Searchstr == null)
+    {
+        Model.Searchstr = "";
+    }
+    if(Model.Filter == null)
+    {
+        Model.Filter = "";
+    }
     ViewBag.Title = "dashboard";
     Layout = "~/Views/Shared/AdminLayout.cshtml";
 }
