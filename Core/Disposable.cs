@@ -16,7 +16,7 @@ namespace Core
             {
                 if (disposing)
                 {
-                    // TODO: dispose managed state (managed objects)
+                    // TODO: dispose managed state (managed objectse)asdfgdsgdf
                 }
 
                 // TODO: free unmanaged resources (unmanaged objects) and override finalizer
