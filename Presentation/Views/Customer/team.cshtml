@@ -1,0 +1,10 @@
+@model List<Entities.Team>
+@{
+    var team = Model;
+}
+@{
+    ViewBag.Title = "team";
+    Layout = "~/Views/Shared/CustomerLayout.cshtml";
+}
+
+@Html.Partial("_team", Model)
