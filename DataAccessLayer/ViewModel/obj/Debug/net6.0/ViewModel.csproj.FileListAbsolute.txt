@@ -1,0 +1,12 @@
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net6.0\ViewModel.deps.json
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net6.0\ViewModel.dll
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net6.0\ViewModel.pdb
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ViewModel.csproj.AssemblyReference.cache
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ViewModel.AssemblyInfoInputs.cache
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ViewModel.AssemblyInfo.cs
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ViewModel.dll
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\refint\ViewModel.dll
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ViewModel.pdb
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net6.0\ref\ViewModel.dll

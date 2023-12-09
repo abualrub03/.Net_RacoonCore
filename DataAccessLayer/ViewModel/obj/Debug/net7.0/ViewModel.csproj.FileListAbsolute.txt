@@ -1,0 +1,15 @@
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net7.0\ViewModel.dll
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net7.0\Entities.dll
+D:\ASP .NET\Racoon\ViewModel\bin\Debug\net7.0\Entities.pdb
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.dll
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+D:\ASP .NET\Racoon\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll
