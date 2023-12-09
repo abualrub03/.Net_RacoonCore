@@ -5,7 +5,6 @@ using System.Web;
 
 namespace Entities
 {
-    //asdsadasd
     public class News
     {
         public int Id { get; set; }
