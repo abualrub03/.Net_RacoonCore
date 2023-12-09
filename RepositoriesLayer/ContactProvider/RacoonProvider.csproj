@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -15,8 +15,6 @@
     <ProjectReference Include="..\..\DataAccessLayer\DataAccess\DataAccess.csproj" />
     <ProjectReference Include="..\..\DataAccessLayer\Entities\Entities.csproj" />
     <ProjectReference Include="..\..\DataAccessLayer\ViewModel\ViewModel.csproj" />
-    <ProjectReference Include="..\..\PresentationLayer\Presentation\RacoonCore.Web.csproj" />
-    <ProjectReference Include="..\..\PresentationLayer\RacoonCore.Api\RacoonCore.Api.csproj" />
     <ProjectReference Include="..\..\ServicesLayer\Interfaces\Interfaces.csproj" />
   </ItemGroup>
 

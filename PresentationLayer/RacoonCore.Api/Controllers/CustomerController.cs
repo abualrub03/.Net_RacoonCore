@@ -12,7 +12,6 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Net.Http.Headers;
 using System.Security.Claims;
 using System.Text;
-using NuGet.Common;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace RacoonCore.Api.Controllers

@@ -4,6 +4,71 @@
     "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj": {}
   },
   "projects": {
+    "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj",
+        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP .NET\\Racoon\\CoreLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.jQuery.Unobtrusive.Ajax": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,17 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj"
+              "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj": {
+                "projectPath": "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj"
               }
             }
           }
@@ -228,199 +284,6 @@
         }
       }
     },
-    "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\RacoonCore.Web.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\RacoonCore.Web.csproj",
-        "projectName": "RacoonCore.Web",
-        "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\RacoonCore.Web.csproj",
-        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "AspNetCore.Unobtrusive.Ajax": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
-            "Microsoft.AspNetCore.Identity": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            },
-            "Microsoft.Azure.KeyVault": {
-              "target": "Package",
-              "version": "[3.0.5, )"
-            },
-            "Microsoft.Data.SqlClient": {
-              "target": "Package",
-              "version": "[5.1.1, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Microsoft.jQuery.Unobtrusive.Ajax": {
-              "target": "Package",
-              "version": "[3.2.6, )"
-            },
-            "MicrosoftAjax": {
-              "target": "Package",
-              "version": "[4.0.20526, )"
-            },
-            "System.IO": {
-              "target": "Package",
-              "version": "[4.3.0, )"
-            },
-            "System.IO.UnmanagedMemoryStream": {
-              "target": "Package",
-              "version": "[4.3.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
-        "projectName": "RacoonCore.Api",
-        "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
-        "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[7.0.14, )"
-            },
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.13, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -453,12 +316,6 @@
               },
               "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
                 "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\RacoonCore.Web.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\RacoonCore.Web.csproj"
-              },
-              "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj"
               },
               "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj": {
                 "projectPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj"
