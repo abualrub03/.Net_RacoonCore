@@ -20,12 +20,7 @@
 
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
-    <ProjectReference Include="..\Entities\Entities.csproj" />
-	  <ProjectReference Include="..\ContactProvider\RacoonProvider.csproj" />
-
-
-
+    <ProjectReference Include="..\..\DataAccessLayer\Entities\Entities.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Using Include="AspNetCore.Unobtrusive.Ajax" />

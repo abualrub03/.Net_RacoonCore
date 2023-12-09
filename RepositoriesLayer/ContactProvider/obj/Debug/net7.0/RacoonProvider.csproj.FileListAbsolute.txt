@@ -23,3 +23,11 @@ D:\ASP .NET\Racoon\ContactProvider\obj\Debug\net7.0\RacoonProvider.dll
 D:\ASP .NET\Racoon\ContactProvider\obj\Debug\net7.0\refint\RacoonProvider.dll
 D:\ASP .NET\Racoon\ContactProvider\obj\Debug\net7.0\RacoonProvider.pdb
 D:\ASP .NET\Racoon\ContactProvider\obj\Debug\net7.0\ref\RacoonProvider.dll
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\RacoonProvider.csproj.AssemblyReference.cache
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\RacoonProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\RacoonProvider.AssemblyInfoInputs.cache
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\RacoonProvider.AssemblyInfo.cs
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\RacoonProvider.csproj.CoreCompileInputs.cache
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\RacoonProvider.dll
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\refint\RacoonProvider.dll
+D:\ASP .NET\Racoon\RepositoriesLayer\ContactProvider\obj\Debug\net7.0\RacoonProvider.pdb

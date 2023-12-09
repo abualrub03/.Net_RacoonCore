@@ -13,3 +13,11 @@ D:\ASP .NET\Racoon\DataAccess\obj\Debug\net7.0\DataAccess.dll
 D:\ASP .NET\Racoon\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
 D:\ASP .NET\Racoon\DataAccess\obj\Debug\net7.0\DataAccess.pdb
 D:\ASP .NET\Racoon\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\ASP .NET\Racoon\DataAccessLayer\DataAccess\obj\Debug\net7.0\DataAccess.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/qS2IeZ/XZddWFsBcZ42bZNVXewL4EN99duwkwHkMLq6llmoOZUET2ZbXedGhQSKT/0rZ0WphofZyZZORO22g==",
+  "dgSpecHash": "BM+REzW5jmYfBwK+IQPMG0S73E+aItcus2/8q4d/DP7tEHncYFeM34cIxkd7wCmtTVtwHXduPUnGXMQ7o2FpNw==",
   "success": true,
-  "projectFilePath": "D:\\ASP .NET\\Racoon\\ViewModel\\ViewModel.csproj",
+  "projectFilePath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

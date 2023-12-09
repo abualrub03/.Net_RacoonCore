@@ -11,4 +11,14 @@
     <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\Entities\Entities.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\ViewModel\ViewModel.csproj" />
+    <ProjectReference Include="..\PresentationLayer\Presentation\RacoonCore.Web.csproj" />
+    <ProjectReference Include="..\PresentationLayer\RacoonCore.Api\RacoonCore.Api.csproj" />
+    <ProjectReference Include="..\RepositoriesLayer\ContactProvider\RacoonProvider.csproj" />
+    <ProjectReference Include="..\ServicesLayer\Interfaces\Interfaces.csproj" />
+  </ItemGroup>
+
 </Project>

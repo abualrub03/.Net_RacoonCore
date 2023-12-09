@@ -1,0 +1,9 @@
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.csproj.AssemblyReference.cache
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.AssemblyInfoInputs.cache
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.AssemblyInfo.cs
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.csproj.CoreCompileInputs.cache
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.RazorAssemblyInfo.cache
+D:\ASP .NET\Racoon\PresentationLayer\Presentation\obj\Debug\net7.0\RacoonCore.Web.RazorAssemblyInfo.cs

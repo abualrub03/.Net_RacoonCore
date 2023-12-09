@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP .NET\\Racoon\\Interfaces\\Interfaces.csproj": {}
+    "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "D:\\ASP .NET\\Racoon\\Entities\\Entities.csproj": {
+    "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP .NET\\Racoon\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\ASP .NET\\Racoon\\Entities\\Entities.csproj",
+        "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP .NET\\Racoon\\Entities\\obj\\",
+        "outputPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\ASP .NET\\Racoon\\Interfaces\\Interfaces.csproj": {
+    "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP .NET\\Racoon\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "D:\\ASP .NET\\Racoon\\Interfaces\\Interfaces.csproj",
+        "projectPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP .NET\\Racoon\\Interfaces\\obj\\",
+        "outputPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ASP .NET\\Racoon\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\Entities\\Entities.csproj"
+              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
               }
             }
           }

@@ -610,8 +610,8 @@
     },
     "Entities/1.0.0": {
       "type": "project",
-      "path": "../Entities/Entities.csproj",
-      "msbuildProject": "../Entities/Entities.csproj"
+      "path": "../../DataAccessLayer/Entities/Entities.csproj",
+      "msbuildProject": "../../DataAccessLayer/Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -626,11 +626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP .NET\\Racoon\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "D:\\ASP .NET\\Racoon\\Interfaces\\Interfaces.csproj",
+      "projectPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP .NET\\Racoon\\Interfaces\\obj\\",
+      "outputPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -647,8 +647,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ASP .NET\\Racoon\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\Entities\\Entities.csproj"
+            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
             }
           }
         }
