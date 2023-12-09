@@ -1,0 +1,216 @@
+@using ViewModel.UserViewModels;
+@model IndexViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/CustomerLayout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="hero_area">
+        <!-- slider section -->
+        <section class="slider_section " style="margin-top:100px">
+            <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container ">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-11 mx-auto"> 
+                                    <div class="detail-box">
+                                        <h1>
+                                            We Provide <br>
+                                            App Development Services
+                                        </h1>
+                                        <p>
+                                            App development is the process of creating software applications designed to run on mobile devices, tablets, computers, or other digital platforms. It involves a combination of programming, design, and testing to bring an idea to life in the form of a functional and user-friendly application. App development has become an essential part of modern life, powering everything from social networking and productivity tools to entertainment and e-commerce. As technology continues to advance, app development remains a dynamic and evolving field, driving innovation and enhancing our digital experiences in countless ways.
+                                        </p>
+                                        <div class="btn-box">
+                                            <a href="contact" class="btn1">
+                                                Contact Us
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container ">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-11 mx-auto">
+                                    <div class="detail-box">
+                                        <h1>
+                                            We Provide <br>
+                                            Web Development Services
+                                        </h1>
+                                        <p>
+                                            Web development services encompass the creation, design, and maintenance of websites and web applications. These services involve a range of tasks, from coding and programming to ensuring responsive and user-friendly designs. Web development services are essential for businesses and individuals looking to establish a strong online presence, engage with their target audience, and provide a seamless online experience. Whether it's building a simple informational website or a complex e-commerce platform, web development services play a crucial role in shaping the digital landscape.
+                                        </p>
+                                        <div class="btn-box">
+                                            <a href="contact" class="btn1">
+                                                Contact Us
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container ">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-11 mx-auto">
+                                    <div class="detail-box">
+                                        <h1>
+                                            We Provide <br>
+                                            Desktop Aplications and System Development
+                                        </h1>
+                                        <p>
+
+                                            Desktop application and system development involve designing and building software solutions that run on personal computers or local systems. These applications are tailored to meet specific user needs, enhancing productivity and efficiency. Whether creating standalone software tools or integrated system solutions, desktop application and system development play a pivotal role in optimizing workflow and addressing unique computing requirements. These developments can range from traditional desktop applications to robust operating systems, underpinning the functionality of computers and providing tailored solutions for various industries and tasks.
+                                        </p>
+                                        <div class="btn-box">
+                                            <a href="contact" class="btn1">
+                                                Contact Us
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel_btn-box">
+                    <a class="carousel-control-prev" href="#customCarousel1" role="button" data-slide="prev">
+                        <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#customCarousel1" role="button" data-slide="next">
+                        <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <!-- end slider section -->
+    </div>
+
+
+    <!-- service section -->
+    @Html.Partial("_service",Model.S)
+
+    <!-- service section ends -->
+    <!-- about section -->
+    <div style="background-color:rgba(71, 170, 165, 0.9)"> 
+    @Html.Partial("_about")
+    </div>
+    <!-- about section ends -->
+    <!-- team section -->
+    @Html.Partial("_team",Model.T)
+    <!-- end team section -->
+    <!-- contact section -->
+    @Html.Partial("_contact",Model.S)
+    <!-- end contact section -->
+    <!-- client section -->
+
+<section class="client_section layout_padding">
+    <div class="container ">
+        <div class="heading_container heading_center">
+            <h2>
+                Qutations
+            </h2>
+            <hr>
+        </div>
+        <div id="carouselExample2Controls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-9 mx-auto">
+                            <div class="client_container ">
+                                <div class="img-box">
+                                    <img src="~/css/images/client.jpeg" alt="">
+                                </div>
+                                <div class="detail-box">
+                                    <h5>
+                                        Stephen King
+                                    </h5>
+                                    <p>
+                                        The scariest moment is always just before you start
+                                    </p>
+                                    <span>
+                                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-9 mx-auto">
+                            <div class="client_container ">
+                                <div class="img-box">
+                                    <img src="~/css/images/client.jpeg" alt="">
+                                </div>
+                                <div class="detail-box">
+                                    <h5>
+                                        Chris Grosser
+                                    </h5>
+                                    <p>
+                                        Opportunities don’t happen. You create them.
+                                    </p>
+                                    <span>
+                                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-9 mx-auto">
+                            <div class="client_container ">
+                                <div class="img-box">
+                                    <img src="~/css/images/client.jpeg" alt="">
+                                </div>
+                                <div class="detail-box">
+                                    <h5>
+                                        Franklin D. Roosevelt
+                                    </h5>
+                                    <p>
+                                        The only limit to our realization of tomorrow will be our doubts of today.
+                                    </p>
+                                    <span>
+                                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel_btn-box">
+                <a class="carousel-control-prev" href="#carouselExample2Controls" role="button" data-slide="prev">
+                    <span>
+                        <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                    </span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExample2Controls" role="button" data-slide="next">
+                    <span>
+                        <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                    </span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+    
+    <!-- end client section -->
+
+    
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+@model List<Entities.Service>
+@{
+    ViewBag.Title = "_service";
+
+}
+<body class="sub_page">
+
+
+    <!-- service section -->
+
+    <div style="background-color:white">
+        <section class="service_section layout_padding" style="color:black;">
+            <div class="container">
+                <div class="heading_container heading_center ">
+                    <h2 class="">
+                        Our Services
+                    </h2>
+
+                </div>
+                <div class="service_container">
+                    <div class="carousel-wrap ">
+                        <div class="service_owl-carousel owl-carousel">
+
+                            @foreach (var service in Model)
+                            {
+
+                                <div class="item">
+                                    <div class="box ">
+                                        <div class="img-box">
+                                            <img src="~/css/images/s1.png" alt="" />
+                                        </div>
+                                        <div class="detail-box">
+                                            <h5>
+                                                @service.Name
+                                            </h5>
+                                            <p>
+                                                @service.Details
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="btn-box">
+                    <a href="">
+                        Read More About This Service
+                    </a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- service section ends -->
+                        
+</body>
+
