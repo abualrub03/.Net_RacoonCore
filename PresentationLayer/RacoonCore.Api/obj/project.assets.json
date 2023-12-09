@@ -488,6 +488,21 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Microsoft.Extensions.Configuration.Json": "7.0.0",
+          "Microsoft.jQuery.Unobtrusive.Ajax": "3.2.6"
+        },
+        "compile": {
+          "bin/placeholder/ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViewModel.dll": {}
+        }
       }
     }
   },
@@ -1471,14 +1486,21 @@
       "type": "project",
       "path": "../../DataAccessLayer/Entities/Entities.csproj",
       "msbuildProject": "../../DataAccessLayer/Entities/Entities.csproj"
+    },
+    "ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../../DataAccessLayer/ViewModel/ViewModel.csproj",
+      "msbuildProject": "../../DataAccessLayer/ViewModel/ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj",
       "Entities >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.14",
       "Microsoft.AspNetCore.OpenApi >= 7.0.13",
-      "Swashbuckle.AspNetCore >= 6.5.0"
+      "Swashbuckle.AspNetCore >= 6.5.0",
+      "ViewModel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1510,6 +1532,12 @@
           "projectReferences": {
             "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
               "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+            },
+            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
+            },
+            "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj": {
+              "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj"
             }
           }
         }
@@ -1559,5 +1587,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

@@ -289,10 +289,3 @@ D:\ASP .NET\Racoon\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.pdb
 D:\ASP .NET\Racoon\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.genruntimeconfig.cache
 D:\ASP .NET\Racoon\RacoonCore.Api\obj\Debug\net7.0\ref\RacoonCore.Api.dll
 D:\ASP .NET\Racoon\RacoonCore.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\ASP .NET\Racoon\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.csproj.AssemblyReference.cache
-D:\ASP .NET\Racoon\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.GeneratedMSBuildEditorConfig.editorconfig
-D:\ASP .NET\Racoon\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.AssemblyInfoInputs.cache
-D:\ASP .NET\Racoon\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.AssemblyInfo.cs
-D:\ASP .NET\Racoon\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.csproj.CoreCompileInputs.cache
-D:\ASP .NET\Racoon\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\ASP .NET\Racoon\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.MvcApplicationPartsAssemblyInfo.cache

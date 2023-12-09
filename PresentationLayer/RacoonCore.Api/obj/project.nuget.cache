@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "SzAksFoPWMGQ/vS3lzJVSX8CiNamZK8ZJIODgrf5m+sb0bRs5lXuTGvTIrIbCmKFY5OsJfXRDHMCsWcjTVDmWw==",
-  "success": true,
+  "dgSpecHash": "CNazzfg7yQgMOgbsL4TBjMBlphyHSK7+l8D7QgItVKwob1Wr8WbGbuUrn1TDvIBCiF9muTXbWsbiXrdLp44stA==",
+  "success": false,
   "projectFilePath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
@@ -34,5 +34,15 @@
     "C:\\Users\\Mohammad\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

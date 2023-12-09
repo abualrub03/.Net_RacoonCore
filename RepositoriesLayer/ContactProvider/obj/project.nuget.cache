@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "OI+71OvaseL5HwvjSxtAFcCtJ/VLrUVINYNzhk4GL39joLf5pGofY68qBDjbSO/vdR/F4tQrxItA187/jekZsg==",
-  "success": true,
+  "dgSpecHash": "BZlyNBbya4Tci1Bd/AEwfWxqlhg1coPtzrhbXo6BjCKxia1dQ0Tw0Qd+s1oZVGAG7nqoCylwixGm0URqk7OWzw==",
+  "success": false,
   "projectFilePath": "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\aspnetcore.unobtrusive.ajax\\2.0.0\\aspnetcore.unobtrusive.ajax.2.0.0.nupkg.sha512",
@@ -280,5 +280,15 @@
     "C:\\Users\\Mohammad\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

@@ -21,6 +21,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\DataAccessLayer\Entities\Entities.csproj" />
+    <ProjectReference Include="..\..\DataAccessLayer\ViewModel\ViewModel.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Using Include="AspNetCore.Unobtrusive.Ajax" />

@@ -254,6 +254,9 @@
             "projectReferences": {
               "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
                 "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+              },
+              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
               }
             }
           }
@@ -362,6 +365,12 @@
             "projectReferences": {
               "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
                 "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+              },
+              "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
+              },
+              "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj": {
+                "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\PresentationLayer\\RacoonCore.Web.csproj"
               }
             }
           }

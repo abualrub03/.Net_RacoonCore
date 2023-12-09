@@ -4476,6 +4476,21 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Microsoft.Extensions.Configuration.Json": "7.0.0",
+          "Microsoft.jQuery.Unobtrusive.Ajax": "3.2.6"
+        },
+        "compile": {
+          "bin/placeholder/ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViewModel.dll": {}
+        }
       }
     }
   },
@@ -12439,6 +12454,11 @@
       "type": "project",
       "path": "../../DataAccessLayer/Entities/Entities.csproj",
       "msbuildProject": "../../DataAccessLayer/Entities/Entities.csproj"
+    },
+    "ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../../DataAccessLayer/ViewModel/ViewModel.csproj",
+      "msbuildProject": "../../DataAccessLayer/ViewModel/ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12454,7 +12474,8 @@
       "Microsoft.jQuery.Unobtrusive.Ajax >= 3.2.6",
       "MicrosoftAjax >= 4.0.20526",
       "System.IO >= 4.3.0",
-      "System.IO.UnmanagedMemoryStream >= 4.3.0"
+      "System.IO.UnmanagedMemoryStream >= 4.3.0",
+      "ViewModel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12486,6 +12507,9 @@
           "projectReferences": {
             "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
               "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+            },
+            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
             }
           }
         }
