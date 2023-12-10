@@ -3563,11 +3563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
+      "projectUniqueName": "D:\\Projects\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
       "projectName": "RacoonCore.Api",
-      "projectPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
+      "projectPath": "D:\\Projects\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP .NET\\Racoon\\PresentationLayer\\RacoonCore.Api\\obj\\",
+      "outputPath": "D:\\Projects\\PresentationLayer\\RacoonCore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3584,11 +3584,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+            "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj"
             },
-            "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj"
+            "D:\\Projects\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj": {
+              "projectPath": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj"
             }
           }
         }

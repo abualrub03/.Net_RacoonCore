@@ -627,11 +627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj",
+      "projectUniqueName": "D:\\Projects\\DataAccessLayer\\ViewModel\\ViewModel.csproj",
       "projectName": "ViewModel",
-      "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj",
+      "projectPath": "D:\\Projects\\DataAccessLayer\\ViewModel\\ViewModel.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\obj\\",
+      "outputPath": "D:\\Projects\\DataAccessLayer\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -648,8 +648,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+            "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj"
             }
           }
         }

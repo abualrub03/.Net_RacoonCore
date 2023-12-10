@@ -54,9 +54,9 @@ namespace RacoonProvider
             DAL.Parameters = new List<SqlParameter> {
                 new SqlParameter{ ParameterName = "@searchedName", Value =  newStr },
             };
-            var Count = DAL.ExecuteReader<ViewModel.AdminViewModels.ViewMoreViewModel>("spCountSearchByName").FirstOrDefault();
-            var ItemsQuantity = Count.NumberOfItemsSearchedFor;
-            return Count.NumberOfItemsSearchedFor;
+            var Count = DAL.ExecuteReader<ViewModel.AdminViewModels.CountContactsViewModel>("spCountSearchByName").FirstOrDefault();
+            
+            return Count.Count;
 
         }
         ////////////////////////////////////////////////////////////////////
@@ -90,19 +90,16 @@ namespace RacoonProvider
 
         public int spNewCountSearchByName(string searchString,string filter)
         {
-            string newStr = '%' + searchString + '%';
-            if(filter == "null") {
-                filter = "%%";
-            }
+            
             using var DAL = new DataAccess.DataAccessLayer();
             DAL.Parameters = new List<SqlParameter> {
-                new SqlParameter{ ParameterName = "@searchString", Value =  newStr },
+                new SqlParameter{ ParameterName = "@searchString", Value =  searchString },
                 new SqlParameter{ ParameterName = "@filterValue", Value =  filter },
                 
             };
-            var Count = DAL.ExecuteReader<ViewModel.AdminViewModels.ViewMoreViewModel>("SearchAndFilterCount").FirstOrDefault();
+            var Count = DAL.ExecuteReader<ViewModel.AdminViewModels.CountContactsViewModel>("SearchAndFilterCount").FirstOrDefault();
             
-            return Count.NumberOfItemsSearchedFor;
+            return Count.Count;
 
         }
                 

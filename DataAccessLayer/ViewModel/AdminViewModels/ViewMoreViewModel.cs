@@ -8,6 +8,7 @@ namespace ViewModel.AdminViewModels
 {
     public class ViewMoreViewModel
     {
+        public int Count {  get; set; }
         public int countPages { get; set; }
         public static int end = 10;
         public int start { get; set; }  

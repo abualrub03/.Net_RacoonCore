@@ -96,7 +96,7 @@ namespace RacoonCore.Controllers
         {
             var v = new ViewMoreViewModel() { };
             v.Contacts = new Contact().spNewSearchIntblContact("", "%%", 0,10);
-            v.NumberOfItemsSearchedFor = new Contact().spNewCountSearchByName("", "%%");
+            v.NumberOfItemsSearchedFor = new Contact().spNewCountSearchByName("%%", "%%");
             v.Services = new RacoonProvider.Services().getAllServices();
             return View("dashboard", v);
         }

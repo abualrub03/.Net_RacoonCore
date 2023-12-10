@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {}
+    "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj": {
+    "D:\\Projects\\CoreLayer\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj",
+        "projectUniqueName": "D:\\Projects\\CoreLayer\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj",
+        "projectPath": "D:\\Projects\\CoreLayer\\Core.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP .NET\\Racoon\\CoreLayer\\obj\\",
+        "outputPath": "D:\\Projects\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {
+    "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\obj\\",
+        "outputPath": "D:\\Projects\\DataAccessLayer\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj": {
-                "projectPath": "D:\\ASP .NET\\Racoon\\CoreLayer\\Core.csproj"
+              "D:\\Projects\\CoreLayer\\Core.csproj": {
+                "projectPath": "D:\\Projects\\CoreLayer\\Core.csproj"
               }
             }
           }

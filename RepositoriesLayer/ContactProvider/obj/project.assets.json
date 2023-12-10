@@ -3051,11 +3051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
+      "projectUniqueName": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
       "projectName": "RacoonProvider",
-      "projectPath": "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
+      "projectPath": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP .NET\\Racoon\\RepositoriesLayer\\ContactProvider\\obj\\",
+      "outputPath": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3072,17 +3072,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\DataAccess\\DataAccess.csproj"
+            "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+            "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj"
             },
-            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
+            "D:\\Projects\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "D:\\Projects\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
             },
-            "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj"
+            "D:\\Projects\\ServicesLayer\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "D:\\Projects\\ServicesLayer\\Interfaces\\Interfaces.csproj"
             }
           }
         }

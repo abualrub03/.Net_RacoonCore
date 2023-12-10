@@ -1,591 +1,591 @@
 {
   "Files": [
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\Site.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\Site.css",
       "PackagePath": "staticwebassets\\css\\Site.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\about-img.jpg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\about-img.jpg",
       "PackagePath": "staticwebassets\\css\\images\\about-img.jpg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\client.jpeg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\client.jpeg",
       "PackagePath": "staticwebassets\\css\\images\\client.jpeg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\contact.jpeg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\contact.jpeg",
       "PackagePath": "staticwebassets\\css\\images\\contact.jpeg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\fecicon.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\fecicon.png",
       "PackagePath": "staticwebassets\\css\\images\\fecicon.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\hero-bg.jpg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\css\\images\\hero-bg.jpg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\p1.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\p1.png",
       "PackagePath": "staticwebassets\\css\\images\\p1.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\p2.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\p2.png",
       "PackagePath": "staticwebassets\\css\\images\\p2.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\p3.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\p3.png",
       "PackagePath": "staticwebassets\\css\\images\\p3.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s1.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s1.png",
       "PackagePath": "staticwebassets\\css\\images\\s1.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s2.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s2.png",
       "PackagePath": "staticwebassets\\css\\images\\s2.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s3.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s3.png",
       "PackagePath": "staticwebassets\\css\\images\\s3.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s4.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s4.png",
       "PackagePath": "staticwebassets\\css\\images\\s4.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s5.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s5.png",
       "PackagePath": "staticwebassets\\css\\images\\s5.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s6.png",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\s6.png",
       "PackagePath": "staticwebassets\\css\\images\\s6.png"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\slider-bg.jpg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\slider-bg.jpg",
       "PackagePath": "staticwebassets\\css\\images\\slider-bg.jpg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\t1.jpg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\t1.jpg",
       "PackagePath": "staticwebassets\\css\\images\\t1.jpg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\t2.jpg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\t2.jpg",
       "PackagePath": "staticwebassets\\css\\images\\t2.jpg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\t3.jpg",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\images\\t3.jpg",
       "PackagePath": "staticwebassets\\css\\images\\t3.jpg"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\responsive.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\style.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\style.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\style.css.map",
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\css\\style.scss",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\css\\style.scss",
       "PackagePath": "staticwebassets\\css\\style.scss"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\favicon.ico",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\custom.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.intellisense.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.intellisense.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.intellisense.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.min.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.min.map",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.slim.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.slim.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.slim.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.slim.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.slim.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.slim.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.slim.min.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery-3.4.1.slim.min.map",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.slim.min.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
       "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate-vsdoc.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate-vsdoc.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate-vsdoc.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\modernizr-2.8.3.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\modernizr-2.8.3.js",
       "PackagePath": "staticwebassets\\js\\modernizr-2.8.3.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\moh.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\moh.js",
       "PackagePath": "staticwebassets\\js\\moh.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\js\\site.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\ASP .NET\\Racoon\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Projects\\PresentationLayer\\Presentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

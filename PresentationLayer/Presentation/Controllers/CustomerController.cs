@@ -57,7 +57,7 @@ namespace RacoonCore.Controllers
 
             var v = new ViewMoreViewModel() { };
             v.Contacts = new RacoonProvider.Contact().spNewSearchIntblContact("", "%%", 0, 10);
-            v.NumberOfItemsSearchedFor = new RacoonProvider.Contact().spNewCountSearchByName("", "%%");
+            v.NumberOfItemsSearchedFor = new RacoonProvider.Contact().spNewCountSearchByName("%%", "%%");
             v.Services = new RacoonProvider.Services().getAllServices();
            
 

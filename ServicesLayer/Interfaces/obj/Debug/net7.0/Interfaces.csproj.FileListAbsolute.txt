@@ -28,3 +28,18 @@ D:\ASP .NET\Racoon\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.dll
 D:\ASP .NET\Racoon\ServicesLayer\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
 D:\ASP .NET\Racoon\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.pdb
 D:\ASP .NET\Racoon\ServicesLayer\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
+D:\Projects\ServicesLayer\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+D:\Projects\ServicesLayer\Interfaces\bin\Debug\net7.0\Interfaces.dll
+D:\Projects\ServicesLayer\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+D:\Projects\ServicesLayer\Interfaces\bin\Debug\net7.0\Entities.dll
+D:\Projects\ServicesLayer\Interfaces\bin\Debug\net7.0\Entities.pdb
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CopyComplete
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.dll
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+D:\Projects\ServicesLayer\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll

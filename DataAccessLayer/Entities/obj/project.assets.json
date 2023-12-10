@@ -607,11 +607,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\obj\\",
+      "outputPath": "D:\\Projects\\DataAccessLayer\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",

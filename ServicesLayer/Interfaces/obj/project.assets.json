@@ -626,11 +626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "D:\\Projects\\ServicesLayer\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\Interfaces.csproj",
+      "projectPath": "D:\\Projects\\ServicesLayer\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP .NET\\Racoon\\ServicesLayer\\Interfaces\\obj\\",
+      "outputPath": "D:\\Projects\\ServicesLayer\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -647,8 +647,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\ASP .NET\\Racoon\\DataAccessLayer\\Entities\\Entities.csproj"
+            "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj"
             }
           }
         }

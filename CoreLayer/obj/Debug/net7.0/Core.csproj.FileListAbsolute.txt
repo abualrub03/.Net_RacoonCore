@@ -22,3 +22,15 @@ D:\ASP .NET\Racoon\CoreLayer\obj\Debug\net7.0\Core.dll
 D:\ASP .NET\Racoon\CoreLayer\obj\Debug\net7.0\refint\Core.dll
 D:\ASP .NET\Racoon\CoreLayer\obj\Debug\net7.0\Core.pdb
 D:\ASP .NET\Racoon\CoreLayer\obj\Debug\net7.0\ref\Core.dll
+D:\Projects\CoreLayer\bin\Debug\net7.0\Core.deps.json
+D:\Projects\CoreLayer\bin\Debug\net7.0\Core.dll
+D:\Projects\CoreLayer\bin\Debug\net7.0\Core.pdb
+D:\Projects\CoreLayer\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+D:\Projects\CoreLayer\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CoreLayer\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\Projects\CoreLayer\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\Projects\CoreLayer\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\Projects\CoreLayer\obj\Debug\net7.0\Core.dll
+D:\Projects\CoreLayer\obj\Debug\net7.0\refint\Core.dll
+D:\Projects\CoreLayer\obj\Debug\net7.0\Core.pdb
+D:\Projects\CoreLayer\obj\Debug\net7.0\ref\Core.dll
