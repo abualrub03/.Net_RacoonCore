@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0BU1CquykxWdHrY6+uWdGwf3ACqvqP02qiH8blt1G2b0Zio3YVgAEuFVpM21wTLPv7dFrNUbcUcN1JwMlvkyGw==",
+  "dgSpecHash": "t6Ij0bcEL3WEos+h1kYVMg2BD8fUN9pc7tq4gY43M7SncqtH8X+Ga0UFIsWCjEcYyYj8z5oeUwNT++nTvp8YMA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
+  "projectFilePath": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\RacoonCore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

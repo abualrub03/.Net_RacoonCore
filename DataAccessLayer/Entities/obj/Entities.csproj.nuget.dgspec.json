@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj": {}
+    "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj": {
+    "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj",
+        "projectPath": "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\DataAccessLayer\\Entities\\obj\\",
+        "outputPath": "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",

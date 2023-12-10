@@ -8,6 +8,7 @@ namespace Entities
 {
     public class Contact
     {
+        //test
         public int Id { get; set; }
         public string ?Name { get; set; }
 

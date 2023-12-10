@@ -3051,11 +3051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
+      "projectUniqueName": "D:\\.Net_RacoonCore\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
       "projectName": "RacoonProvider",
-      "projectPath": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
+      "projectPath": "D:\\.Net_RacoonCore\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\obj\\",
+      "outputPath": "D:\\.Net_RacoonCore\\RepositoriesLayer\\ContactProvider\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3072,17 +3072,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Projects\\DataAccessLayer\\DataAccess\\DataAccess.csproj"
+            "D:\\.Net_RacoonCore\\DataAccessLayer\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\.Net_RacoonCore\\DataAccessLayer\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj"
+            "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\Entities.csproj"
             },
-            "D:\\Projects\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "D:\\Projects\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
+            "D:\\.Net_RacoonCore\\DataAccessLayer\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "D:\\.Net_RacoonCore\\DataAccessLayer\\ViewModel\\ViewModel.csproj"
             },
-            "D:\\Projects\\ServicesLayer\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "D:\\Projects\\ServicesLayer\\Interfaces\\Interfaces.csproj"
+            "D:\\.Net_RacoonCore\\ServicesLayer\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "D:\\.Net_RacoonCore\\ServicesLayer\\Interfaces\\Interfaces.csproj"
             }
           }
         }

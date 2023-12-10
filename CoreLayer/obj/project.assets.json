@@ -577,11 +577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\CoreLayer\\Core.csproj",
+      "projectUniqueName": "D:\\.Net_RacoonCore\\CoreLayer\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\Projects\\CoreLayer\\Core.csproj",
+      "projectPath": "D:\\.Net_RacoonCore\\CoreLayer\\Core.csproj",
       "packagesPath": "C:\\Users\\Mohammad\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\CoreLayer\\obj\\",
+      "outputPath": "D:\\.Net_RacoonCore\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",

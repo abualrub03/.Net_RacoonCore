@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rHGekhOinCFYf9KesMtNEiOEq1xACLY4SuIztZeprXCWdH/H1fsqIgLWLO6S2ga2E9FkoPa0ZHuUS14LtRAy/w==",
+  "dgSpecHash": "r85zKGhDV7eV+0V0ckwIYHWuCzBgaWBHEtNZ3EDm+R+ZrnbcaLd7JKyjgcNrf8wFEkMPb9ywf1eUSf/nsrezwA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DataAccessLayer\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\.Net_RacoonCore\\DataAccessLayer\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

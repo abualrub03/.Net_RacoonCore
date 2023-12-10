@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w/IcvOC/E8BdBBu75eXlHwVKc8IYU80nPZpy6uYSc+82x6LTdSPs38vybjEpJki6/VPuKPkNUx/H5ea8oPld/g==",
+  "dgSpecHash": "E3C8r+K/x3jqOnrxGCzeXXl5GzC6WhR/EXgZwhsmRkhnm6lB5c0H5UOPWn0qp47wKVMIR0qPueWC/U25oSr+jQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\ServicesLayer\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "D:\\.Net_RacoonCore\\ServicesLayer\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

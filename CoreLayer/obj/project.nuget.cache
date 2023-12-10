@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MmkJU2BRYRm1o+uHh1kgmEvCvo28Bx37Him8XGyK4ddecRq4aIVCeVVwXwmHQdu4k0P80GKjuxGEw/nR1Rp7oA==",
+  "dgSpecHash": "6yZaKmgSYGNS+LUHo/48qHvx4Fd1LwY+1D+l4hQvITXs2WyQfHG+5BAaeBFbM+bSIlYHQZ4bDAlJnH0XcrXQog==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CoreLayer\\Core.csproj",
+  "projectFilePath": "D:\\.Net_RacoonCore\\CoreLayer\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

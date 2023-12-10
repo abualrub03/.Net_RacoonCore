@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xwj953B+oPkokJZUHPMxRh2rTM3wGqa8jliEcp/59CkHcyzEmw5/B3gtTjJTi2FFtFN12vINUG+CGlnsgQkzcA==",
+  "dgSpecHash": "jETMO1vc8vO0eIZ+TCQrrm6m2cBE79L31abw2jyxA4oqk3T1yRzzD3235JUxf6Xe61l6Y07IW8EDsopxSUGlJg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PresentationLayer\\Presentation\\RacoonCore.Web.csproj",
+  "projectFilePath": "D:\\.Net_RacoonCore\\PresentationLayer\\Presentation\\RacoonCore.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\aspnetcore.unobtrusive.ajax\\2.0.0\\aspnetcore.unobtrusive.ajax.2.0.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

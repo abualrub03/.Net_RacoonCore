@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "clQ37HoEJ33Z52rmZSdKMAV7RShmAdc9bale9Q+UdPdixZNZoU9Z5sbN/bdqxfjbtL1CJmozkfEz70fNluQEUA==",
+  "dgSpecHash": "krVUXVIRpewaTVEGLaZVZG5/TWTCV9szolgEjjJYFpjRNXlne5flxuQrfTQ88Byddm9JCc1H0YXGrDw3z8adZA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
+  "projectFilePath": "D:\\.Net_RacoonCore\\RepositoriesLayer\\ContactProvider\\RacoonProvider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohammad\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Mohammad\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

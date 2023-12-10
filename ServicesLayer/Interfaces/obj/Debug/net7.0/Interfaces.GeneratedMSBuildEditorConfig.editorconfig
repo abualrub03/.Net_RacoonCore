@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Interfaces
-build_property.ProjectDir = D:\Projects\ServicesLayer\Interfaces\
+build_property.ProjectDir = D:\.Net_RacoonCore\ServicesLayer\Interfaces\
