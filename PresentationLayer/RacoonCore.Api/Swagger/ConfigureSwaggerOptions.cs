@@ -8,7 +8,7 @@ namespace RacoonCore.Api.Swagger
     {
         public void Configure(SwaggerGenOptions options)
         {
-            options.AddSecurityDefinition("Bearer",new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+            options.AddSecurityDefinition("Bearer",new Microsoft.OpenApi.Models.OpenApiSecurityScheme 
             {
                 In = Microsoft.OpenApi.Models.ParameterLocation.Header,
                 Description = "Please Enter Your Token >^_^< ",

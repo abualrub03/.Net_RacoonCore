@@ -178,3 +178,7 @@ D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\refint\Raco
 D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.pdb
 D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.genruntimeconfig.cache
 D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\ref\RacoonCore.Api.dll
+D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\bin\Debug\net7.0\RacoonCore.Api.xml
+D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\obj\Debug\net7.0\RacoonCore.Api.xml
+D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\bin\Debug\net7.0\RacoonCore.Api.staticwebassets.runtime.json
+D:\.Net_RacoonCore\PresentationLayer\RacoonCore.Api\bin\Debug\net7.0\JWT.dll

@@ -1,11 +1,88 @@
 {
   "Version": 1,
-  "Hash": "4ZFiRab7MuuNi/KTXj7UOB+P2rqklsoadqzyrk1UGKM=",
+  "Hash": "Ezfe0eCcbTjAH3L/EFuoPsvkC2Kkcv2fNiCyRRpPoys=",
   "Source": "RacoonCore.Api",
   "BasePath": "_content/RacoonCore.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "RacoonCore.Api\\wwwroot",
+      "Source": "RacoonCore.Api",
+      "ContentRoot": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\",
+      "BasePath": "_content/RacoonCore.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\assets\\css\\xmas-style.css",
+      "SourceId": "RacoonCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\",
+      "BasePath": "_content/RacoonCore.Api",
+      "RelativePath": "assets/css/xmas-style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\xmas-style.css"
+    },
+    {
+      "Identity": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\assets\\img\\Flag.png",
+      "SourceId": "RacoonCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\",
+      "BasePath": "_content/RacoonCore.Api",
+      "RelativePath": "assets/img/Flag.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Flag.png"
+    },
+    {
+      "Identity": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\assets\\img\\kayanhr_cover.jpg",
+      "SourceId": "RacoonCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\",
+      "BasePath": "_content/RacoonCore.Api",
+      "RelativePath": "assets/img/kayanhr_cover.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\kayanhr_cover.jpg"
+    },
+    {
+      "Identity": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\assets\\Js\\SwaggerJs.js",
+      "SourceId": "RacoonCore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net_RacoonCore\\PresentationLayer\\RacoonCore.Api\\wwwroot\\",
+      "BasePath": "_content/RacoonCore.Api",
+      "RelativePath": "assets/Js/SwaggerJs.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Js\\SwaggerJs.js"
+    }
+  ]
 }

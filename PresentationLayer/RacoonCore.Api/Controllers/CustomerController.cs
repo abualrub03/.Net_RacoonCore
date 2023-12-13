@@ -13,6 +13,8 @@ using System.Net.Http.Headers;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using System.ComponentModel.DataAnnotations;
+using JWT;
 
 namespace RacoonCore.Api.Controllers
 {
@@ -26,6 +28,47 @@ namespace RacoonCore.Api.Controllers
         {
             _configuration = iconfig;
         }
+        /*
+        [HttpPost("validate-token")]
+        public async Task<IActionResult> ValidateToken([FromBody] string token)
+        {
+            try
+            {
+                var validationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuer = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"])),
+                    ValidateAudience = true,
+                    ValidAudience = _configuration["Jwt:Audience"],
+                    ValidateLifetime = true,
+                    ClockSkew = TimeSpan.Zero
+                };
+
+                var tokenHandler = new JwtSecurityTokenHandler();
+                SecurityToken validatedToken;
+                 var principal = tokenHandler.ValidateToken(token, validationParameters, out validatedToken);
+                
+                // Extract claims and other relevant information from the principal
+
+                return Ok(new
+                {
+                    Valid = true,
+                    Claims = principal.Claims.ToArray(),
+                    // Add additional information as needed
+                });
+            }
+            catch (Exception ex)
+            {
+                return Unauthorized(new
+                {
+                    Valid = false,
+                    Message = ex.Message
+                });
+            }
+        }
+
+
+        */
         [HttpPost("PostsendContactRequest", Name = "PostsendContactRequest")]
         public IActionResult sendContactRequest(Entities.Contact con)
         {

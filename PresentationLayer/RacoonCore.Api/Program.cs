@@ -4,6 +4,7 @@ using Microsoft.IdentityModel.Tokens;
 using RacoonCore.Api.Identity;
 using RacoonCore.Api.Swagger;
 using Swashbuckle.AspNetCore.SwaggerGen;
+using System.Reflection;
 using System.Text;
 
 internal class Program
@@ -42,15 +43,20 @@ internal class Program
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
         builder.Services.AddTransient<IConfigureOptions<SwaggerGenOptions>, ConfigureSwaggerOptions>();
-
          var app = builder.Build();
-
-        // Configure the HTTP request pipeline.
-        if (app.Environment.IsDevelopment())
+		app.UseStaticFiles();
+		// Configure the HTTP request pipeline.
+		if (app.Environment.IsDevelopment())
         {
             app.UseSwagger();
-            app.UseSwaggerUI();
-        }
+            app.UseSwaggerUI(c => {
+                    c.InjectStylesheet("/assets/css/xmas-style.css");
+                    c.InjectJavascript("/assets/Js/SwaggerJs.js");
+                    
+                }
+            );
+           
+		}
 
         app.UseHttpsRedirection();
         app.UseAuthentication();
