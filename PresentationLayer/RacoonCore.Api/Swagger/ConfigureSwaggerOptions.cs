@@ -13,6 +13,7 @@ namespace RacoonCore.Api.Swagger
                 In = Microsoft.OpenApi.Models.ParameterLocation.Header,
                 Description = "Please Enter Your Token >^_^< ",
                 Name = "Authorization",
+
                 Type = Microsoft.OpenApi.Models.SecuritySchemeType.Http,
                 BearerFormat = "JWT",
                 Scheme="Bearer"
